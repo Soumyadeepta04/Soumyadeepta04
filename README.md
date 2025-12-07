@@ -19,7 +19,13 @@
 
 ---
 
-<table align="center">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Open+Source+Contributor;Always+Learning+New+Things;Building+Amazing+Projects" alt="Typing SVG" />
+</div>
+
+<br>
+
+<table>
 <tr>
 <td width="50%" valign="top">
 
@@ -41,13 +47,7 @@ const soumyadeepta = {
 </td>
 <td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=400&lines=Full+Stack+Web+Developer;Open+Source+Contributor;Always+Learning+New+Things;Building+Amazing+Projects" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" alt="coding">
-</p>
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="100%" alt="coding">
 
 </td>
 </tr>
@@ -195,14 +195,6 @@ const soumyadeepta = {
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</p>
-
-<p align="center">
-  <b>✨ Thanks for visiting! ✨</b>
-</p>
-
-<p align="center">
-  ⭐️ From <a href="https://github.com/soumyadeepta04">Soumyadeepta Manna</a> | Made with ❤️ and ☕
 </p>
 
 <p align="center">
